@@ -5,6 +5,7 @@
 #include <QMouseEvent>
 #include <QDebug>
 #include <QPixmapCache>
+#include <QMacStyle>
 
 #include "qtsegmentcontrol.h"
 
